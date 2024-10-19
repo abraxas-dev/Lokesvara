@@ -1,10 +1,19 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
+# Logs
+logs
+*.log
+
+
 # Compiled output
 /dist
 /tmp
 /out-tsc
 /bazel-out
+
+# Dependency directories
+node_modules/
+jspm_packages/
 
 # Node
 /node_modules
@@ -19,6 +28,13 @@ yarn-error.log
 *.launch
 .settings/
 *.sublime-workspace
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
 
 # Visual Studio Code
 .vscode/*
@@ -27,6 +43,19 @@ yarn-error.log
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+
+# Environment variables
+src/environments/environment*.ts
+
+# Angular specific
+.angular/
+.angular/cache/
+coverage/
+
+# Build output
+dist/
+out-tsc/
+build/
 
 # Miscellaneous
 /.angular/cache
