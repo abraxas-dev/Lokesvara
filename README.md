@@ -1,27 +1,36 @@
 # Lokesvara
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+Ein KI-gestütztes Projekt zur Emotionserkennung und interaktiven Kommunikation mit erweiterten Realitätsfunktionen.
 
-## Development server
+# 📝 Projektbeschreibung
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Lokesvara ist eine fortschrittliche Webanwendung, die künstliche Intelligenz nutzt, um Emotionen in Echtzeit zu erkennen und darauf zu reagieren. Das Projekt entwickelt sich in drei wesentlichen Phasen:
 
-## Code scaffolding
+### Phase 1: Echtzeit-Emotionserkennung
+- Implementierung einer Webcam-basierten Emotionserkennungs-Engine
+- Live-Analyse und Visualisierung der erkannten Emotionen
+- Benutzerfreundliche Weboberfläche für Echtzeitfeedback
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Phase 2: Emotionaler Chatbot
+- Integration eines KI-gesteuerten Chatbots
+- Kontextsensitive Gesprächsführung basierend auf erkannten Emotionen
+- Personalisierte Interaktionen und Empfehlungen
 
-## Build
+### Phase 3: AR-Integration
+- Erweiterung der Anwendung um Augmented Reality-Funktionen
+- Immersive Benutzererfahrung durch AR-Visualisierungen
+- Nahtlose Integration von Emotionserkennung und AR-Elementen
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🛠️ Technologie-Stack
 
-## Running unit tests
+- **Frontend Framework:** Angular
+- **Programmiersprache:** TypeScript
+- **KI-Komponenten:** Large Language Models (LLMs)
+- **AR-Integration:** [AR Framework TBD]
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🎯 Projektziele
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Vertieftes Verständnis des Angular-Frameworks und seiner Ecosystem
+- Praktische Erfahrung in der Implementierung von Data Analytics
+- Hands-on Erfahrung mit Machine Learning und KI-Integration
+- Entwicklung einer skalierbaren und modularen Architektur
